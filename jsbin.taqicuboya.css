@@ -30,6 +30,7 @@ nav {
 	align-content: center;
 }
 header {
+  background-image: url()
 	width: 960px;
 	height: 45px;
 	margin-left: auto;
@@ -46,6 +47,10 @@ nav a {
 	color: #FFFFFF;
 	float: left;
 	font-size: 12pt;
+}
+a {
+  color: #white;
+  font-size: 12pt;
 }
 a:hover {
 	background-color: #CFDB24;
